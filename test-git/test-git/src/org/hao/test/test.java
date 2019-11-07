@@ -4,4 +4,5 @@ public interface test {
 	void a();
 	void b();
 	void c();
+	void d();
 }
